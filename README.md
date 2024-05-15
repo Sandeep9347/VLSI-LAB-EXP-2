@@ -1,17 +1,18 @@
-SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
+# EXPERIMENT:2   SIMULATION AND IMPLEMENTATION OF COMBINATIONAL LOGIC CIRCUITS
+# DATE: 
 
-AIM: 
+# AIM: 
 
- To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
+ To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using  vivado ISE.
 
-APPARATUS REQUIRED:
+# APPARATUS REQUIRED:
 
-Xilinx 14.7
+ vivado 14.7
 Spartan6 FPGA
 
-PROCEDURE:
+# PROCEDURE:
 
- 1.Open Vivado: Launch Xilinx Vivado software on your computer.
+ 1.Open Vivado: Launch  Vivado software on your computer.
 
 2.Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
 
